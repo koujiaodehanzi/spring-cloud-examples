@@ -3,6 +3,10 @@
 !README.md
 !pom.xml
 
+
+
 **/target
 *.iml
 .idea
+
+!**/src
