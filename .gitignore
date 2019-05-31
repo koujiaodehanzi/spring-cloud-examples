@@ -1,12 +1,4 @@
-/*
-!.gitignore
-!README.md
-!pom.xml
-
-
-
-**/target
+**/*/target
 *.iml
 .idea
 
-!**/src
